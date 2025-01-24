@@ -21,24 +21,13 @@ The problems are organized as follows:
 - **`/Medium/`**: Solutions to moderately challenging problems.
 - **`/Hard/`**: Solutions to advanced problems requiring deep understanding.
 
-Each solution includes:
-- The problem description.
-- The approach/algorithm used.
-- The time and space complexity analysis.
-
 ---
 
 ## 🛠️ Languages Used
 I primarily solve problems in:
 - **C++**
-- Python (in some cases)
-- Other languages may be added over time.
 
 ---
 
-## 🤝 Contributing
-If you'd like to contribute:
-1. Fork this repository.
-2. Add your solution in the appropriate folder.
-3. Submit a pull request with details about your contribution.
+
 
